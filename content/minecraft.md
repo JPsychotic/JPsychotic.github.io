@@ -5,4 +5,4 @@ aliases = ["minecraft"]
   name = "Jeremy Probst"
 +++
 
-<iframe src="https://dynmap.jeremyp.dev/"></iframe>
+<iframe src="https://dynmap.jeremyp.dev"></iframe>
